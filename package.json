@@ -1,0 +1,22 @@
+{
+  "name": "@goodcity/cli",
+  "version": "1.0.0",
+  "description": "Goodcity CLI Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "goodcity-cli": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@goodcity/release-notes": "^1.2.9",
+    "@octokit/core": "^3.2.4",
+    "commander": "^7.0.0",
+    "dotenv": "^8.2.0",
+    "signale": "^1.4.0",
+    "simple-git": "^2.31.0"
+  }
+}
