@@ -1,6 +1,6 @@
 {
   "name": "@goodcity/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Goodcity CLI Helper",
   "main": "index.js",
   "scripts": {
